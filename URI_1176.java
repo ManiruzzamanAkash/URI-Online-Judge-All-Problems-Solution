@@ -15,7 +15,7 @@ public class URI_1176 {
 
 	public static void main(String[] args) {
 		int T, N, i, j;
-		int fibo[]=new int[61];
+		long fibo[]=new long[61];
 		fibo[0] = 0;
 		fibo[1] = 1;
 		
